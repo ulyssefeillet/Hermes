@@ -1,0 +1,13 @@
+
+
+input[type="text"] { 
+	border-left: 1px solid gray;
+	padding-left:2em;
+
+
+} 
+
+form-group{
+
+	border:5px #ccccff;
+}

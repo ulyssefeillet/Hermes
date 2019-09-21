@@ -1,0 +1,52 @@
+.classe{
+
+    margin:0;
+}
+
+ul
+{
+list-style-type: none;
+}
+
+.corps{
+
+    margin-top:350px;
+}
+
+
+.telecharger{
+
+    margin-top:100px;
+}
+.apercu {
+
+     width: 60px;
+     margin-left:15px;
+     font-size: 1em;
+     margin-top: 10px;
+
+    }
+.prix{
+margin-top:50px;
+    margin-bottom:50px;
+    margin-left:50px;
+}
+
+.Prix{
+ margin-left: 170px;
+
+}
+
+.bloc {
+ 
+    margin-bottom:50px;
+
+}
+
+
+
+
+
+
+
+

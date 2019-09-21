@@ -1,0 +1,25 @@
+body ul {
+  list-style-type: none;
+color:rgb(50,145,156);
+
+}
+
+footer ul{
+
+	color:white;
+}
+
+.sous_categorie{
+	  list-style-type: circle;
+
+	margin-left:130px;
+}
+
+.liste{
+
+	padding:30px;
+	font-size:20px;
+	letter-spacing:0.1em;
+	line-height: 2em;
+
+}

@@ -1,0 +1,174 @@
+/* BOUTON SE CONNECETER */
+
+
+
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#fafafa;
+	font-family:Verdana;
+	font-size:8px;
+	font-weight:bold;
+	padding:10px 12px;
+	text-decoration:none;
+}
+
+/* BODY */
+body {
+	background-color : ghostwhite;
+}
+
+
+/* TITRE ET COUVERTURE DU LIVRE */
+
+h2 {
+	margin-top : 30px;
+} 
+
+.couverture {
+	width : 56%;
+	height:  auto;
+	border-style : ridge;
+	
+}
+
+.livre {
+	text-align : center;
+}
+
+
+/* ACHAT ET DESCRIPTION */
+
+.achat {
+	display : inline-block;
+	
+}
+
+.btnAchat {
+	/*background-color: lightblue;
+	border-color : dodgerblue;*/
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:7px;
+	border:1px solid;
+	display:inline-block;
+	cursor: pointer;
+	/*color : dodgerblue;*/
+	font-family:Verdana;
+	font-size:8px;
+	font-weight:bold;
+	padding:10px 12px;
+	background-color:lightgreen;
+	border-color : #44c767;
+	color :green;
+}
+
+.btnAchat:hover {
+	/*background-color: dodgerblue;
+	color : white;
+	border-color:lightblue;*/
+	background-color: #44c767;
+	color : white;
+	border-color:lightblue;
+	
+}
+
+.right {
+	margin-top : 80px;
+	margin-right : -400px;
+	padding-left : 20px;
+	padding-top : 20px;
+	padding-bottom : 20px;
+	background-color : lightblue;
+	border-top-left-radius:5px;
+	border-bottom-left-radius:5px;
+}
+
+/*  VOUS AIMEREZ AUSSI */
+.bloc {
+	margin-left : 20px;
+}
+
+.infoSup {
+	margin-left : 60px;
+}
+/* RECOMMANDATION (VOUS AIMEREZ AUSSI) */
+
+.couvertureRec {
+	width : 40%;
+	height:  auto;
+	border-style : ridge;
+	/*border-style : none;*/
+	border-color : silver;
+}
+
+.recommandation {
+	display : inline-block;
+	border-style: solid;
+	border-color : lightblue;
+	border-radius:5px;
+	text-align : center;
+	margin-left : 10px;
+	margin-right : 10px;
+	margin-bottom : 35px;
+	width : 20%;
+	height : auto;
+	padding-top : 20px;
+}
+
+.blocRecom {
+	margin-left : 60px;
+}
+
+/* MARGE DE GAUCHE */
+
+.classe {
+	margin : 0;
+}
+
+/*.couverture:hover {
+	width : 30%;
+	height:  auto;
+	cursor: zoom-in;
+}*/
+
+
+
+/* MISE EN PAGE DES BOUTONS ET DU TEXTE A DROITE DE L'IMAGE */
+ul
+{
+list-style-type: none;
+}
+
+.corps{
+
+    margin-top:10px;
+}
+
+.apercu {
+
+     width: 60px;
+     margin-left:120px;
+     font-size: 1em;
+     margin-top: 10px;
+
+    }
+
+
+.prix{
+margin-top:30px;
+    margin-bottom:30px;
+    margin-left:0px;
+    font-size:1.2em;
+}
+
+.Prix{
+ margin-left: 20px;
+
+}
+

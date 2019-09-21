@@ -1,0 +1,64 @@
+h1 {
+	text-align : center;
+}
+
+.corps {
+	margin-left : 70px;
+}
+
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#fafafa;
+	font-family:Verdana;
+	font-size:8px;
+	font-weight:bold;
+	padding:10px 12px;
+	text-decoration:none;
+}
+
+td {
+	text-align : center;
+}
+
+th {
+	text-align : center;
+}
+
+.form-control {
+	width : 50%;
+	height : auto;
+}
+
+.btnSave {
+	background-color: white;
+	border-color : dodgerblue;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:7px;
+	border:1px solid;
+	display:inline-block;
+	cursor: pointer;
+	color : dodgerblue;
+	font-family:Verdana;
+	font-weight:bold;
+	padding:10px 12px;
+	font-size : medium;
+}
+
+.btnSave:hover {
+	background-color: dodgerblue;
+	color : white;
+	border-color:lightblue;	
+}
+
+.tab {
+	margin-right : 50px;
+	border:1px solid;
+	border-color : silver;
+}

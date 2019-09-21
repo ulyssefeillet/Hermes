@@ -1,0 +1,141 @@
+body{
+
+    width:100%;
+}
+
+.jumbotron-heading{
+    color:black;
+
+}
+
+.Panier {
+	padding-right:15px;
+}
+
+
+.search{
+	float:right;
+}
+
+
+
+
+.titre{
+
+    color:red;
+}
+	
+/* FOOTER CSS */
+a[href^="tel:"]{
+
+  margin-top:10px;
+  font-size:1.1em;
+}
+
+a[href^="tel:"]:before {
+  content: "\260e";
+  margin-right: 0.5em;
+}
+
+footer {
+    background-color: #4A4A4A;
+    color: #FFF;
+    font-size: 14px;
+    text-align:center;
+}
+
+footer a, footer a:hover {
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer .menu h1 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin: 0;
+    font-size: 18px;
+    border-bottom: 2px solid #aaa;
+}
+
+footer .menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 30px 0;
+}
+
+footer nav {
+    display: block;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+footer nav ul {
+    list-style-type: none;
+}
+
+footer nav li {
+    display: inline-block;
+}
+
+footer nav a {
+    color: #CDCDCD;
+    display: inline-block;
+    padding: 10px;
+    font-weight: bold;
+    border-bottom: 3px solid transparent;
+    transition: border-bottom-color 0.5s;
+}
+
+footer nav a:hover {
+    border-bottom-color: #fff;
+    text-decoration: none;
+}
+
+
+.banner {
+    background: #fff url(books_slider.png) center center;
+      
+      
+}
+
+.banner h1, .banner h2, .banner h3, .banner h4, .banner h5, .banner h6 {
+    text-align: center;
+    padding: 100px 10px; /* ecart entre la nav et l'image du haut */
+    margin: 0;
+    font-size: 50px;
+    color: #fff;
+
+}
+
+
+header {
+    height: 70px;
+    padding-top: 10px;
+}
+
+
+.Menu{
+    margin-left: 100px;
+    
+}
+
+/*couleur du texte de la barre de navigation*/
+
+.Menu li a{
+  color:rgb(10,130,130);
+}
+
+
+
+
+header nav {
+    float: right;
+    height: 70px;  /* taille en hauteur de la barre de navigation  */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 17px;
+    /* sous menu */
+}
+

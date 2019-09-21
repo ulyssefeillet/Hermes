@@ -1,0 +1,58 @@
+
+.buttons-panel{
+
+	display:inline;
+	text-align:right;
+	margin-left:400px;
+
+}
+
+.pdv-panel{
+
+	display:inline;
+	
+	margin-left:300px;
+
+}
+
+.pdv-panel a{
+
+	color:white;
+
+}
+
+.admin-buttons-panel{
+
+	display:inline;
+	text-align:right;
+	margin-left:370px;
+
+}
+
+body{
+
+		padding-bottom:200px;
+	}
+.buttons-panel a{
+
+color:white;
+}
+
+
+#books_list{
+	color:gray;
+	margin-right:500px;
+
+}
+
+#books_list i{
+
+	margin-left:15px;
+
+}
+
+#eye_icon{
+
+	cursor: pointer;
+	
+}

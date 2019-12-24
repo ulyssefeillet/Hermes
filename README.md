@@ -18,4 +18,4 @@ Sce po : http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100733190
 Fontaine Picard : https://www.fontainepicard.com/boutique/enseignement-superieur.htm
 
 ## Réalisation
-![Alt text](./Capturegit.png?raw=true "Title")
+![écran accueil](./Capturegit.PNG?raw=true "Title")

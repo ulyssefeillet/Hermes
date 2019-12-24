@@ -1,4 +1,5 @@
 # Projet : site internet marchand d’une maison d’édition.
+## Sujet
 
 L’association Hermès souhaite créer une maison d’édition. Le rôle d’une maison d’édition est multiple : d’abord, il s’agit de d’identifier des auteurs et de convenir avec eux d’un sujet original ; ensuite, il convient d’imprimer, de diffuser, et de promouvoir l’œuvre de l’auteur ; enfin, il est nécessaire d’assurer la logistique qui permet de stocker, de distribuer, et de facturer les livres publiés.
 Les collections créées concernent les sciences sociales -La gestion, l’économie, et le droit--.  Les œuvres des auteurs seront éditées en version papier, en version électronique, et en version audio. Le président estime que le nombre de projets éditoriaux serait de 3 à 4 ouvrages par an.
@@ -16,3 +17,5 @@ Economica : https://www.economica.fr/index.cfm
 Sce po : http://www.pressesdesciencespo.fr/fr/livre/?GCOI=27246100733190
 Fontaine Picard : https://www.fontainepicard.com/boutique/enseignement-superieur.htm
 
+## Réalisation
+![Alt text](./Capturegit.png?raw=true "Title")
